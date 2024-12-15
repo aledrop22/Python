@@ -1,4 +1,4 @@
 #testando Gihhub
-#Configurado remotamente e online+
-#teste
+#Configured remotamente e online+
+#tests
 # Ola Python
